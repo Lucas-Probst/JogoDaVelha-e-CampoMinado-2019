@@ -1,3 +1,2 @@
-# JogoDaVelha2019
-Um joguinho da velha desenvolvido enquanto eu aprendia a linguagem Java em 2019.
-E tem um pouco de "gambiarra" no código
+# Jogo da Velha e Campo Minado feitos em 2019
+Dois joguinhos feitos de pura gambiarra, desenvolvidos enquanto eu aprendia a linguagem Java na faculdade em 2019.
